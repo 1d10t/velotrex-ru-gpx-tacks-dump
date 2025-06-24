@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:locus="http://www.locusmap.eu" version="1.1" creator="Locus Map, Android" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+	
+<trk>
+<name>перевал СЕРЕККУЛЬ - ИСЯНОВО</name>
+	<extensions>
+		<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+			<color>0000FF</color>
+			<opacity>0.59</opacity>
+			<width>6.0</width>
+			<extensions>
+				<locus:lsColorBase>#960000FF</locus:lsColorBase>
+				<locus:lsWidth>6.0</locus:lsWidth>
+				<locus:lsUnits>PIXELS</locus:lsUnits>
+			</extensions>
+		</line>
+		<locus:activity>cycling_mountain</locus:activity>
+	</extensions>
+<trkseg>
+<trkpt lat="52.8032800" lon="58.4295850">
+	<ele>480.54</ele>
+</trkpt>
+<trkpt lat="52.8025280" lon="58.4256790">
+	<ele>482.50</ele>
+</trkpt>
+<trkpt lat="52.8033840" lon="58.4189410">
+	<ele>484.42</ele>
+</trkpt>
+<trkpt lat="52.8047850" lon="58.4076120">
+	<ele>490.41</ele>
+</trkpt>
+<trkpt lat="52.8052260" lon="58.4041790">
+	<ele>497.73</ele>
+</trkpt>
+<trkpt lat="52.8053560" lon="58.3949950">
+	<ele>536.84</ele>
+</trkpt>
+<trkpt lat="52.8047330" lon="58.3850380">
+	<ele>573.80</ele>
+</trkpt>
+<trkpt lat="52.8037990" lon="58.3814760">
+	<ele>581.93</ele>
+</trkpt>
+<trkpt lat="52.8029170" lon="58.3773570">
+	<ele>592.11</ele>
+</trkpt>
+<trkpt lat="52.8021390" lon="58.3735800">
+	<ele>602.32</ele>
+</trkpt>
+<trkpt lat="52.8018530" lon="58.3719920">
+	<ele>604.64</ele>
+</trkpt>
+<trkpt lat="52.8029170" lon="58.3704470">
+	<ele>612.52</ele>
+</trkpt>
+<trkpt lat="52.8044480" lon="58.3683440">
+	<ele>619.61</ele>
+</trkpt>
+<trkpt lat="52.8054080" lon="58.3660700">
+	<ele>628.89</ele>
+</trkpt>
+<trkpt lat="52.8056670" lon="58.3627220">
+	<ele>642.86</ele>
+</trkpt>
+<trkpt lat="52.8055370" lon="58.3597180">
+	<ele>661.53</ele>
+</trkpt>
+<trkpt lat="52.8024240" lon="58.3534100">
+	<ele>704.81</ele>
+</trkpt>
+<trkpt lat="52.8002450" lon="58.3497620">
+	<ele>726.34</ele>
+</trkpt>
+<trkpt lat="52.7995180" lon="58.3459420">
+	<ele>742.04</ele>
+</trkpt>
+<trkpt lat="52.7981430" lon="58.3404920">
+	<ele>774.13</ele>
+</trkpt>
+<trkpt lat="52.7932390" lon="58.3319950">
+	<ele>824.35</ele>
+</trkpt>
+<trkpt lat="52.7929270" lon="58.3301070">
+	<ele>832.51</ele>
+</trkpt>
+<trkpt lat="52.7931870" lon="58.3279180">
+	<ele>834.98</ele>
+</trkpt>
+<trkpt lat="52.7936800" lon="58.3263300">
+	<ele>843.84</ele>
+</trkpt>
+<trkpt lat="52.7947180" lon="58.3254720">
+	<ele>851.75</ele>
+</trkpt>
+<trkpt lat="52.7970530" lon="58.3263300">
+	<ele>855.47</ele>
+</trkpt>
+<trkpt lat="52.8024240" lon="58.3268880">
+	<ele>851.44</ele>
+</trkpt>
+<trkpt lat="52.8036950" lon="58.3265880">
+	<ele>847.22</ele>
+</trkpt>
+<trkpt lat="52.8056670" lon="58.3238410">
+	<ele>838.45</ele>
+</trkpt>
+<trkpt lat="52.8064450" lon="58.3215240">
+	<ele>825.84</ele>
+</trkpt>
+<trkpt lat="52.8059780" lon="58.3177470">
+	<ele>818.40</ele>
+</trkpt>
+<trkpt lat="52.8043180" lon="58.3154300">
+	<ele>811.65</ele>
+</trkpt>
+<trkpt lat="52.8009970" lon="58.3095070">
+	<ele>778.38</ele>
+</trkpt>
+<trkpt lat="52.8028650" lon="58.3032420">
+	<ele>748.13</ele>
+</trkpt>
+<trkpt lat="52.8025540" lon="58.2913970">
+	<ele>707.44</ele>
+</trkpt>
+<trkpt lat="52.8001150" lon="58.2850460">
+	<ele>672.48</ele>
+</trkpt>
+<trkpt lat="52.7965340" lon="58.2810970">
+	<ele>641.79</ele>
+</trkpt>
+<trkpt lat="52.7934720" lon="58.2806680">
+	<ele>637.89</ele>
+</trkpt>
+<trkpt lat="52.7899430" lon="58.2780080">
+	<ele>626.27</ele>
+</trkpt>
+<trkpt lat="52.7888010" lon="58.2743170">
+	<ele>593.86</ele>
+</trkpt>
+<trkpt lat="52.7907210" lon="58.2722570">
+	<ele>583.96</ele>
+</trkpt>
+<trkpt lat="52.7932650" lon="58.2702830">
+	<ele>570.57</ele>
+</trkpt>
+<trkpt lat="52.7940950" lon="58.2686520">
+	<ele>563.74</ele>
+</trkpt>
+<trkpt lat="52.7958600" lon="58.2713990">
+	<ele>565.60</ele>
+</trkpt>
+<trkpt lat="52.7973130" lon="58.2739730">
+	<ele>572.43</ele>
+</trkpt>
+<trkpt lat="52.7995960" lon="58.2710550">
+	<ele>562.34</ele>
+</trkpt>
+<trkpt lat="52.8011530" lon="58.2665920">
+	<ele>555.07</ele>
+</trkpt>
+<trkpt lat="52.8033840" lon="58.2633300">
+	<ele>552.03</ele>
+</trkpt>
+<trkpt lat="52.8043700" lon="58.2617000">
+	<ele>550.01</ele>
+</trkpt>
+<trkpt lat="52.8050450" lon="58.2586100">
+	<ele>544.82</ele>
+</trkpt>
+<trkpt lat="52.8046810" lon="58.2542320">
+	<ele>539.57</ele>
+</trkpt>
+<trkpt lat="52.8053040" lon="58.2483960">
+	<ele>531.82</ele>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>перевал СЕРЕККУЛЬ - ИСЯНОВО</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Южный Урал</li><li><strong>Границы:</strong> Не указано</li><li><strong>Даты прохождения:</strong> Не указано</li><li><strong>Длина:</strong> 16961 м</li><li><strong>Категория трудности:</strong> Не указано</li><li><strong>Тип покрытия:</strong> Не указано</li></ul><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> Не указано</li><li><strong>Кпк (покрытие):</strong> Не указано</li><li><strong>Кнв (набор высоты):</strong> Не указано</li><li><strong>Ккр (крутизна):</strong> Не указано</li><li><strong>КТ (итоговый):</strong> Не указано</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase>#FF4CAF50</locus:lsColorBase><locus:lsWidth>3</locus:lsWidth><locus:lsUnits>PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity>cycling_mountain</locus:activity></extensions></trk>
+</gpx>

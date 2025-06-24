@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>перевал  через отроги Абаканского  хребта</name>
+<trkseg>
+<trkpt lat="53.215285" lon="90.041511">
+<ele>492.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.204855" lon="90.071567">
+<ele>480.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.194647" lon="90.101187">
+<ele>467.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.185222" lon="90.124158">
+<ele>454.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.175271" lon="90.143134">
+<ele>447.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.168648" lon="90.169071">
+<ele>432.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.165355" lon="90.162891">
+<ele>449.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.161575" lon="90.151124">
+<ele>461.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.154445" lon="90.126499">
+<ele>492.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.147856" lon="90.106929">
+<ele>533.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.147238" lon="90.090450">
+<ele>550.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.140031" lon="90.072940">
+<ele>612.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.135500" lon="90.042728">
+<ele>654.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.129732" lon="90.011486">
+<ele>626.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.123346" lon="89.980587">
+<ele>597.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.114280" lon="89.955181">
+<ele>584.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>перевал  через отроги Абаканского  хребта</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Западный Саян</li><li><strong>Границы:</strong> Не указано</li><li><strong>Даты прохождения:</strong> Не указано</li><li><strong>Длина:</strong> 25700 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> Асфальт/бетон</li></ul><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.26</li><li><strong>Кпк (покрытие):</strong> 1.04</li><li><strong>Кнв (набор высоты):</strong> 1.17</li><li><strong>Ккр (крутизна):</strong> 0.99</li><li><strong>КТ (итоговый):</strong> 1.26 * 1.04 * 1.17 * 0.99 * 1.00 * 1.00 * 1.10 =  1.67</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

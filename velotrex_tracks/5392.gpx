@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>перевал хребет Оимала</name>
+<trkseg>
+<trkpt lat="53.163858" lon="90.166168">
+<ele>446.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.164269" lon="90.156898">
+<ele>453.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.162005" lon="90.146942">
+<ele>464.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.157065" lon="90.134239">
+<ele>481.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.152124" lon="90.121536">
+<ele>499.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.148624" lon="90.110893">
+<ele>518.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.146359" lon="90.104027">
+<ele>536.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.147182" lon="90.095444">
+<ele>564.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.146564" lon="90.088921">
+<ele>552.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.143064" lon="90.082054">
+<ele>570.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.140798" lon="90.074501">
+<ele>615.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.138739" lon="90.068321">
+<ele>607.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.137915" lon="90.060425">
+<ele>622.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.135650" lon="90.046692">
+<ele>654.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.133590" lon="90.033302">
+<ele>651.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.129882" lon="90.017166">
+<ele>634.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.127616" lon="90.005493">
+<ele>620.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.124320" lon="89.990044">
+<ele>607.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.121435" lon="89.978714">
+<ele>598.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.118378" lon="89.966629">
+<ele>592.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.114430" lon="89.955025">
+<ele>584.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.111545" lon="89.948845">
+<ele>589.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.106598" lon="89.945755">
+<ele>592.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.102682" lon="89.944382">
+<ele>609.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.098559" lon="89.943008">
+<ele>591.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>перевал хребет Оимала</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Западный Саян</li><li><strong>Границы:</strong> Не указано</li><li><strong>Даты прохождения:</strong> Не указано</li><li><strong>Длина:</strong> 17424 м</li><li><strong>Категория трудности:</strong> 2</li><li><strong>Тип покрытия:</strong> Асфальт/бетон</li></ul><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.17</li><li><strong>Кпк (покрытие):</strong> 1.20</li><li><strong>Кнв (набор высоты):</strong> 1.13</li><li><strong>Ккр (крутизна):</strong> 1.04</li><li><strong>КТ (итоговый):</strong> 1.17 * 1.20 * 1.13 * 1.04 * 1.01 * 1.10 * 1.10 =  2.02</li></ul><h2>Фотоматериалы (1)</h2><ul><li><a href="http://velotrex.ru/showfile.php?filename=1651930327_627674d7316bb.JPG">Фото</a> (без даты)</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>8BC34A</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF8BC34A</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

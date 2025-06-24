@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>равнинное левый берег река Белая</name>
+<trkseg>
+<trkpt lat="53.003215" lon="56.542854">
+<ele>215.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.000787" lon="56.535130">
+<ele>216.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.996500" lon="56.522598">
+<ele>214.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.994950" lon="56.521654">
+<ele>214.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.988286" lon="56.526375">
+<ele>211.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.980225" lon="56.530323">
+<ele>217.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.975780" lon="56.530838">
+<ele>217.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.971852" lon="56.531696">
+<ele>213.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.963297" lon="56.512771">
+<ele>209.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.961953" lon="56.509337">
+<ele>211.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.953551" lon="56.496763">
+<ele>219.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.944216" lon="56.479769">
+<ele>230.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.942742" lon="56.472087">
+<ele>236.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.936405" lon="56.471443">
+<ele>292.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.935293" lon="56.472430">
+<ele>297.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.929732" lon="56.473160">
+<ele>287.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.921427" lon="56.451015">
+<ele>257.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.915812" lon="56.446638">
+<ele>247.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.911490" lon="56.440029">
+<ele>238.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.905615" lon="56.426768">
+<ele>227.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.899221" lon="56.405997">
+<ele>210.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.868871" lon="56.389775">
+<ele>209.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.861383" lon="56.391406">
+<ele>214.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>равнинное левый берег река Белая</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Южный Урал</li><li><strong>Границы:</strong> Не указано</li><li><strong>Даты прохождения:</strong> Не указано</li><li><strong>Длина:</strong> 21222 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> Асфальт/бетон</li></ul><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.21</li><li><strong>Кпк (покрытие):</strong> 1.00</li><li><strong>Кнв (набор высоты):</strong> 1.05</li><li><strong>Ккр (крутизна):</strong> 1.01</li><li><strong>КТ (итоговый):</strong> 1.21 * 1.00 * 1.05 * 1.01 * 1.00 * 1.00 * 1.00 =  1.28</li></ul><h2>Фотоматериалы (1)</h2><ul><li><a href="http://velotrex.ru/showfile.php?filename=1681458532_643905642b5ed.jpg">Фото 1</a> (Фото 1)</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

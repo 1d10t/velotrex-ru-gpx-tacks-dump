@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>перевал М54-446</name>
+<trkseg>
+<trkpt lat="54.098865" lon="91.262398">
+<ele>311.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.073290" lon="91.265144">
+<ele>352.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.058380" lon="91.267548">
+<ele>437.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.044876" lon="91.270294">
+<ele>445.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.031368" lon="91.278191">
+<ele>446.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.013014" lon="91.281624">
+<ele>423.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.995863" lon="91.282997">
+<ele>391.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.977090" lon="91.278191">
+<ele>357.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.947802" lon="91.265144">
+<ele>350.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.934060" lon="91.258278">
+<ele>349.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.918292" lon="91.256905">
+<ele>311.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="53.913439" lon="91.255875">
+<ele>306.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>перевал М54-446</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Западная Сибирь</li><li><strong>Границы:</strong> р. Харасуг - п. Пригорск (по М-54)</li><li><strong>Даты прохождения:</strong> Не указано</li><li><strong>Длина:</strong> 20955 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> Асфальт/бетон</li></ul><h2>Описание</h2><p>Перевал по трассе М-54</p><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.21</li><li><strong>Кпк (покрытие):</strong> 1.00</li><li><strong>Кнв (набор высоты):</strong> 1.10</li><li><strong>Ккр (крутизна):</strong> 0.99</li><li><strong>КТ (итоговый):</strong> 1.21 * 1.00 * 1.10 * 0.99 * 1.00 * 1.00 * 1.10 =  1.45</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

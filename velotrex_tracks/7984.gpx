@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>траверс Объезд перевала Большая Сука</name>
+<trkseg>
+<trkpt lat="54.748310" lon="58.814238">
+<ele>457.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.748546" lon="58.816491">
+<ele>462.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.749661" lon="58.819925">
+<ele>468.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.748374" lon="58.822349">
+<ele>458.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.747687" lon="58.825160">
+<ele>464.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.746121" lon="58.828186">
+<ele>460.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.745563" lon="58.829516">
+<ele>458.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.745541" lon="58.831919">
+<ele>470.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.743739" lon="58.838314">
+<ele>515.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.748138" lon="58.846532">
+<ele>537.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.753760" lon="58.859600">
+<ele>532.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.758116" lon="58.868183">
+<ele>549.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.762085" lon="58.870929">
+<ele>550.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.763652" lon="58.880542">
+<ele>558.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.792663" lon="58.945945">
+<ele>684.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.797126" lon="58.956245">
+<ele>687.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.798993" lon="58.960365">
+<ele>687.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.800001" lon="58.973240">
+<ele>641.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.801181" lon="58.985599">
+<ele>608.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.816395" lon="59.005855">
+<ele>645.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.815322" lon="59.013580">
+<ele>638.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.814850" lon="59.017786">
+<ele>634.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="54.812039" lon="59.023386">
+<ele>609.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>траверс Объезд перевала Большая Сука</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Южный Урал</li><li><strong>Границы:</strong> ад 75к-121 мост р. Большая Калагаза - брод р. Большая Калагаза</li><li><strong>Даты прохождения:</strong> Не указано</li><li><strong>Длина:</strong> 16885 м</li><li><strong>Категория трудности:</strong> 2</li><li><strong>Тип покрытия:</strong> Грунт</li></ul><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.17</li><li><strong>Кпк (покрытие):</strong> 1.90</li><li><strong>Кнв (набор высоты):</strong> 1.14</li><li><strong>Ккр (крутизна):</strong> 1.07</li><li><strong>КТ (итоговый):</strong> 1.17 * 1.90 * 1.14 * 1.07 * 1.01 * 1.00 * 1.10 =  3.01</li></ul><h2>Фотоматериалы (5)</h2><ul><li><a href="http://velotrex.ru/showfile.php?filename=1711458611_6602c9330b592.jpg">карта</a> (карта)</li><li><a href="http://velotrex.ru/showfile.php?filename=1711458623_6602c93f6c7ef.jpg">1. Начало ПП</a> (1. Начало ПП)</li><li><a href="http://velotrex.ru/showfile.php?filename=1711458635_6602c94b76d79.jpg">2. тропа</a> (2. тропа)</li><li><a href="http://velotrex.ru/showfile.php?filename=1711458648_6602c958d57a2.jpg">3. тропа</a> (3. тропа)</li><li><a href="http://velotrex.ru/showfile.php?filename=1711458660_6602c9643192f.jpg">4. Конец ПП</a> (4. Конец ПП)</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>8BC34A</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF8BC34A</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

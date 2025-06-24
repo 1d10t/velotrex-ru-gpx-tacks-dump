@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>перевал Шанатский</name>
+<trkseg>
+<trkpt lat="52.039716" lon="108.579340">
+<ele>574.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.039188" lon="108.593674">
+<ele>570.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.039082" lon="108.601828">
+<ele>569.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.040772" lon="108.610840">
+<ele>571.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.039716" lon="108.615561">
+<ele>572.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.037868" lon="108.622684">
+<ele>577.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.037445" lon="108.624315">
+<ele>574.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.039452" lon="108.650064">
+<ele>594.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.045681" lon="108.722076">
+<ele>660.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.048796" lon="108.767309">
+<ele>696.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.049218" lon="108.776150">
+<ele>722.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.049482" lon="108.788595">
+<ele>659.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.050010" lon="108.816490">
+<ele>640.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.050538" lon="108.821468">
+<ele>626.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.054338" lon="108.846102">
+<ele>604.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.057452" lon="108.866487">
+<ele>618.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.058322" lon="108.876271">
+<ele>618.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.058507" lon="108.877344">
+<ele>617.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.064127" lon="108.889189">
+<ele>617.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.066686" lon="108.894768">
+<ele>625.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="52.069852" lon="108.903866">
+<ele>609.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>перевал Шанатский</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> республика Бурятия</li><li><strong>Границы:</strong> п. Новая Курба - п. Верхние Тельцы</li><li><strong>Даты прохождения:</strong> 03.07.2023</li><li><strong>Длина:</strong> 22898 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> Асфальт/бетон</li></ul><h2>Описание</h2><p>Перевал по трассе Р346 между п. Новая Курба и Верхние Тельцы</p><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.23</li><li><strong>Кпк (покрытие):</strong> 1.20</li><li><strong>Кнв (набор высоты):</strong> 1.09</li><li><strong>Ккр (крутизна):</strong> 1.00</li><li><strong>КТ (итоговый):</strong> 1.23 * 1.20 * 1.09 * 1.00 * 1.08 * 1.00 * 1.10 =  1.91</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>равнинное 03Н-492*</name>
+<trkseg>
+<trkpt lat="45.139491" lon="36.900587">
+<ele>53.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.138764" lon="36.815014">
+<ele>41.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.178528" lon="36.766262">
+<ele>52.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.190445" lon="36.750555">
+<ele>77.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.195466" lon="36.743259">
+<ele>75.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.199760" lon="36.736221">
+<ele>60.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.204114" lon="36.729870">
+<ele>43.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.207561" lon="36.725492">
+<ele>32.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.208529" lon="36.724033">
+<ele>31.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.209920" lon="36.721630">
+<ele>25.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.211855" lon="36.720085">
+<ele>21.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.214069" lon="36.719366">
+<ele>19.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.215921" lon="36.718905">
+<ele>14.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>равнинное 03Н-492*</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Краснодарский край</li><li><strong>Границы:</strong> Веселовка-Тамань</li><li><strong>Даты прохождения:</strong> Май 2021</li><li><strong>Длина:</strong> 18216 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> Асфальт/бетон</li></ul><h2>Описание</h2><p>.ПП начинается на Т- образном перекрестке ул.Центральная и дороги 03Н-492 в н.п. Веселовка. Через 6.5 км. возле н.п. Артющенко дорога поворачивает на право. На 15 км через мост дорога проходит над А-290. В Тамани ПП заканчивается на перекрестке улиц Пушкина и Карла Маркса.Покрытие мокрый асфальт хорошего качества.</p><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.18</li><li><strong>Кпк (покрытие):</strong> 1.00</li><li><strong>Кнв (набор высоты):</strong> 1.02</li><li><strong>Ккр (крутизна):</strong> 0.97</li><li><strong>КТ (итоговый):</strong> 1.18 * 1.00 * 1.02 * 0.97 * 1.00 * 1.00 * 1.00 =  1.17</li></ul><h2>Фотоматериалы (1)</h2><ul><li><a href="http://velotrex.ru/showfile.php?filename=1616542032_605a795005c01.jpg">Схема ПП</a> (Схема ПП)</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

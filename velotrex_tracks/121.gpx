@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="MapSource 6.16.3" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+  
+
+  <wpt lat="56.973053142428398" lon="29.880752563476563">
+    <ele>112</ele>
+    <name>БЕЖАНИЦЫ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.132629575207829" lon="28.860397338867188">
+    <ele>113</ele>
+    <name>ВЕЧЕ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.192532606422901" lon="28.830352742224932">
+    <ele>91</ele>
+    <name>ВИНОКУРОВО</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.340998323634267" lon="28.572778701782227">
+    <ele>71</ele>
+    <name>ВЛАЗОВО</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.981332367286086" lon="28.833253383636475">
+    <ele>85</ele>
+    <name>ВЛАСОВО</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.284399187192321" lon="28.718546703457832">
+    <ele>87</ele>
+    <name>ВОРОНЦОВО ПП1</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.432731129229069" lon="29.803333282470703">
+    <ele>94</ele>
+    <name>КРИВЕЦ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.813514871522784" lon="27.833883762359619">
+    <ele>64</ele>
+    <name>ЛЕЗГИ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.805525492876768" lon="28.328642025589943">
+    <ele>39</ele>
+    <name>МИРОЖСКИЙ МОНАСТЫРЬ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.060820804908872" lon="28.919561756774783">
+    <ele>80</ele>
+    <name>МИХАЙЛОВСКОЕ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.847742959856987" lon="28.270493745803833">
+    <ele>78</ele>
+    <name>МОНУМЕНТ В ПАМЯТЬ О ЛЕДОВОМ ПОБОИЩЕ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.802380351349711" lon="27.765283584594727">
+    <ele>64</ele>
+    <name>НОЧЕВКА 1</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.554831234738231" lon="27.964465683326125">
+    <ele>65</ele>
+    <name>НОЧЕВКА 2 ОЗЕРО ОРДОВО</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.192443674430251" lon="28.839160278439522">
+    <ele>85</ele>
+    <name>НОЧЕВКА 3</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.060677809640765" lon="28.882264383137226">
+    <ele>64</ele>
+    <name>НОЧЕВКА 4</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.064326955005527" lon="29.238181114196777">
+    <ele>72</ele>
+    <name>НОЧЕВКА 5</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="56.84967597015202" lon="29.457778930664063">
+    <ele>198</ele>
+    <name>ОЗЕРО АЛЁ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.540752738714218" lon="28.009986877441406">
+    <ele>69</ele>
+    <name>ПАЛКИНО</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.816276708617806" lon="28.334941444918513">
+    <ele>47</ele>
+    <name>ПАМЯТНИК СВЯТОЙ КНЯГИНЕ ОЛЬГЕ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.17420213855803" lon="28.866105079650879">
+    <ele>107</ele>
+    <name>ПАНЮШИНО</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.813071217387915" lon="27.608121139928699">
+    <ele>92</ele>
+    <name>ПЕЧЕРЫ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.839006250724196" lon="27.987735271453857">
+    <ele>55</ele>
+    <name>ПЕЧКИ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.811740506440401" lon="28.340481463819742">
+    <ele>54</ele>
+    <name>ПОГАНКИНЫ ПАЛАТЫ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.320288568735123" lon="28.708992004394531">
+    <ele>81</ele>
+    <name>ПОГОРЕЛКА</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.809977121651173" lon="27.614827752113342">
+    <ele>81</ele>
+    <name>ПСКОВО-ПЕЧЕРСКИЙ МОНАСТЫРЬ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.820622557774186" lon="28.329527238383889">
+    <ele>42</ele>
+    <name>ПСКОВСКИЙ КРОМ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.017748551443219" lon="28.920822143554688">
+    <ele>127</ele>
+    <name>ПУШКИНСКИЕ ГОРЫ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.063358593732119" lon="28.903870582580566">
+    <ele>84</ele>
+    <name>САВКИНА ГОРКА</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.712756181135774" lon="27.843775749206543">
+    <ele>102</ele>
+    <name>СВЯЩЕННЫЙ ХОЛМ ЕДИНЕНИЯ РОССИИ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.063945913687348" lon="28.88822534121573">
+    <ele>63</ele>
+    <name>СОРОТЬ ПП1</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.07230594009161" lon="29.242258071899414">
+    <ele>79</ele>
+    <name>СУХЛОВО</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.057209713384509" lon="28.866963386535645">
+    <ele>93</ele>
+    <name>ТРИГОРСКОЕ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.716962471604347" lon="27.853925228118896">
+    <ele>95</ele>
+    <name>ТРУВОРОВО ГОРОДИЩЕ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.058045640587807" lon="28.864182438701391">
+    <ele>87</ele>
+    <name>УСАДЬБА ПОМЕЩИКОВ ОСИПОВЫХ-ВУЛЬФ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="57.338818442076445" lon="28.351308703422546">
+    <ele>53</ele>
+    <name>ЦЕПНЫЕ МОСТЫ</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>равнинное Пушкинские горы</name>
+    <trkseg>
+      <trkpt lat="57.317716330289841" lon="28.708562767133117">
+        <ele>73</ele>
+        <time>2010-01-01T20:59:56Z</time>
+      </trkpt>
+      <trkpt lat="57.315955124795437" lon="28.712682723999023">
+        <ele>74</ele>
+        <time>2010-01-01T21:01:50Z</time>
+      </trkpt>
+      <trkpt lat="57.314286539331079" lon="28.71422759257257">
+        <ele>73</ele>
+        <time>2010-01-01T21:03:05Z</time>
+      </trkpt>
+      <trkpt lat="57.307425867766142" lon="28.715858375653625">
+        <ele>74</ele>
+        <time>2010-01-01T21:07:42Z</time>
+      </trkpt>
+      <trkpt lat="57.305107768625021" lon="28.717746734619141">
+        <ele>80</ele>
+        <time>2010-01-01T21:09:23Z</time>
+      </trkpt>
+      <trkpt lat="57.302140491083264" lon="28.730792915448546">
+        <ele>76</ele>
+        <time>2010-01-01T21:14:29Z</time>
+      </trkpt>
+      <trkpt lat="57.298822430893779" lon="28.729605115950108">
+        <ele>78</ele>
+        <time>2010-01-01T21:16:44Z</time>
+      </trkpt>
+      <trkpt lat="57.291426407173276" lon="28.746275128796697">
+        <ele>79</ele>
+        <time>2010-01-01T21:24:31Z</time>
+      </trkpt>
+      <trkpt lat="57.287283483892679" lon="28.756288066506386">
+        <ele>80</ele>
+        <time>2010-01-01T21:29:04Z</time>
+      </trkpt>
+      <trkpt lat="57.284164410084486" lon="28.768838290125132">
+        <ele>90</ele>
+        <time>2010-01-01T21:34:02Z</time>
+      </trkpt>
+      <trkpt lat="57.283450020477176" lon="28.770961677655578">
+        <ele>90</ele>
+        <time>2010-01-01T21:34:57Z</time>
+      </trkpt>
+      <trkpt lat="57.280202619731426" lon="28.784179603680968">
+        <ele>89</ele>
+        <time>2010-01-01T21:40:11Z</time>
+      </trkpt>
+      <trkpt lat="57.278068419545889" lon="28.788900291547179">
+        <ele>92</ele>
+        <time>2010-01-01T21:42:24Z</time>
+      </trkpt>
+      <trkpt lat="57.274588504806161" lon="28.793535232543945">
+        <ele>91</ele>
+        <time>2010-01-01T21:45:16Z</time>
+      </trkpt>
+      <trkpt lat="57.273196438327432" lon="28.794994270429015">
+        <ele>95</ele>
+        <time>2010-01-01T21:46:20Z</time>
+      </trkpt>
+      <trkpt lat="57.263218369334936" lon="28.799972534179687">
+        <ele>101</ele>
+        <time>2010-01-01T21:53:13Z</time>
+      </trkpt>
+      <trkpt lat="57.250498412176967" lon="28.807182312011719">
+        <ele>100</ele>
+        <time>2010-01-01T22:02:06Z</time>
+      </trkpt>
+      <trkpt lat="57.226857086643577" lon="28.822031021118164">
+        <ele>102</ele>
+        <time>2010-01-01T22:18:45Z</time>
+      </trkpt>
+      <trkpt lat="57.219004333019257" lon="28.8226318359375">
+        <ele>99</ele>
+        <time>2010-01-01T22:24:00Z</time>
+      </trkpt>
+      <trkpt lat="57.205199673771858" lon="28.829584121704102">
+        <ele>86</ele>
+        <time>2010-01-01T22:33:33Z</time>
+      </trkpt>
+      <trkpt lat="57.194924298673868" lon="28.840484619140625">
+        <ele>87</ele>
+        <time>2010-01-01T22:41:27Z</time>
+      </trkpt>
+      <trkpt lat="57.193645471706986" lon="28.841471588239074">
+        <ele>96</ele>
+        <time>2010-01-01T22:42:23Z</time>
+      </trkpt>
+      <trkpt lat="57.19120399095118" lon="28.84160041809082">
+        <ele>94</ele>
+        <time>2010-01-01T22:44:00Z</time>
+      </trkpt>
+      <trkpt lat="57.184785632416606" lon="28.850097572430968">
+        <ele>91</ele>
+        <time>2010-01-01T22:49:17Z</time>
+      </trkpt>
+      <trkpt lat="57.181948106735945" lon="28.854131614789367">
+        <ele>97</ele>
+        <time>2010-01-01T22:51:40Z</time>
+      </trkpt>
+      <trkpt lat="57.181980377063155" lon="28.855239283293486">
+        <ele>97</ele>
+        <time>2010-01-01T22:52:04Z</time>
+      </trkpt>
+      <trkpt lat="57.181064318865538" lon="28.856964111328125">
+        <ele>94</ele>
+        <time>2010-01-01T22:52:57Z</time>
+      </trkpt>
+      <trkpt lat="57.177575184032321" lon="28.861942207440734">
+        <ele>101</ele>
+        <time>2010-01-01T22:55:53Z</time>
+      </trkpt>
+      <trkpt lat="57.175993267446756" lon="28.864002227783203">
+        <ele>101</ele>
+        <time>2010-01-01T22:57:11Z</time>
+      </trkpt>
+      <trkpt lat="57.175016272813082" lon="28.864431297406554">
+        <ele>106</ele>
+        <time>2010-01-01T22:57:51Z</time>
+      </trkpt>
+      <trkpt lat="57.173527395352721" lon="28.863658905029297">
+        <ele>98</ele>
+        <time>2010-01-01T22:58:53Z</time>
+      </trkpt>
+      <trkpt lat="57.169665265828371" lon="28.866662895306945">
+        <ele>103</ele>
+        <time>2010-01-01T23:01:40Z</time>
+      </trkpt>
+      <trkpt lat="57.167757377028465" lon="28.867864608764648">
+        <ele>108</ele>
+        <time>2010-01-01T23:03:01Z</time>
+      </trkpt>
+      <trkpt lat="57.166454410180449" lon="28.868551170453429">
+        <ele>107</ele>
+        <time>2010-01-01T23:03:55Z</time>
+      </trkpt>
+      <trkpt lat="57.165756281465292" lon="28.86752120219171">
+        <ele>100</ele>
+        <time>2010-01-01T23:04:31Z</time>
+      </trkpt>
+      <trkpt lat="57.163801705464721" lon="28.86683464050293">
+        <ele>104</ele>
+        <time>2010-01-01T23:05:51Z</time>
+      </trkpt>
+      <trkpt lat="57.16249848715961" lon="28.865804588422179">
+        <ele>105</ele>
+        <time>2010-01-01T23:06:48Z</time>
+      </trkpt>
+      <trkpt lat="57.160729821771383" lon="28.866577064618468">
+        <ele>113</ele>
+        <time>2010-01-01T23:08:00Z</time>
+      </trkpt>
+      <trkpt lat="57.160124816000462" lon="28.866319572553039">
+        <ele>116</ele>
+        <time>2010-01-01T23:08:25Z</time>
+      </trkpt>
+      <trkpt lat="57.159380000084639" lon="28.865804588422179">
+        <ele>115</ele>
+        <time>2010-01-01T23:08:57Z</time>
+      </trkpt>
+      <trkpt lat="57.158774910494685" lon="28.86752120219171">
+        <ele>116</ele>
+        <time>2010-01-01T23:09:42Z</time>
+      </trkpt>
+      <trkpt lat="57.157890535891056" lon="28.868894493207335">
+        <ele>116</ele>
+        <time>2010-01-01T23:10:28Z</time>
+      </trkpt>
+      <trkpt lat="57.157238759100437" lon="28.868722915649414">
+        <ele>117</ele>
+        <time>2010-01-01T23:10:54Z</time>
+      </trkpt>
+      <trkpt lat="57.156192865222692" lon="28.869122816249728">
+        <ele>115</ele>
+        <time>2010-01-01T23:11:37Z</time>
+      </trkpt>
+      <trkpt lat="57.155749211087823" lon="28.868551170453429">
+        <ele>115</ele>
+        <time>2010-01-01T23:11:59Z</time>
+      </trkpt>
+      <trkpt lat="57.155190221965313" lon="28.865939369425178">
+        <ele>114</ele>
+        <time>2010-01-01T23:13:00Z</time>
+      </trkpt>
+      <trkpt lat="57.154957875609398" lon="28.866233825683594">
+        <ele>113</ele>
+        <time>2010-01-01T23:13:11Z</time>
+      </trkpt>
+      <trkpt lat="57.146950140595436" lon="28.870182037353516">
+        <ele>111</ele>
+        <time>2010-01-01T23:18:43Z</time>
+      </trkpt>
+      <trkpt lat="57.14625159278512" lon="28.868465423583984">
+        <ele>108</ele>
+        <time>2010-01-01T23:19:29Z</time>
+      </trkpt>
+      <trkpt lat="57.146600866690278" lon="28.865761673077941">
+        <ele>106</ele>
+        <time>2010-01-01T23:20:30Z</time>
+      </trkpt>
+      <trkpt lat="57.1428057923913" lon="28.859109794721007">
+        <ele>108</ele>
+        <time>2010-01-01T23:23:59Z</time>
+      </trkpt>
+      <trkpt lat="57.138800835236907" lon="28.859131336212158">
+        <ele>108</ele>
+        <time>2010-01-01T23:26:40Z</time>
+      </trkpt>
+      <trkpt lat="57.137729711830616" lon="28.859174167737365">
+        <ele>109</ele>
+        <time>2010-01-01T23:27:22Z</time>
+      </trkpt>
+      <trkpt lat="57.135517308488488" lon="28.858873760327697">
+        <ele>110</ele>
+        <time>2010-01-01T23:28:51Z</time>
+      </trkpt>
+      <trkpt lat="57.13495840318501" lon="28.85833740234375">
+        <ele>112</ele>
+        <time>2010-01-01T23:29:16Z</time>
+      </trkpt>
+      <trkpt lat="57.134085092693567" lon="28.859174167737365">
+        <ele>111</ele>
+        <time>2010-01-01T23:29:56Z</time>
+      </trkpt>
+      <trkpt lat="57.133642612025142" lon="28.859646320343018">
+        <ele>113</ele>
+        <time>2010-01-01T23:30:16Z</time>
+      </trkpt>
+      <trkpt lat="57.132780868560076" lon="28.859646320343018">
+        <ele>113</ele>
+        <time>2010-01-01T23:30:51Z</time>
+      </trkpt>
+      <trkpt lat="57.13066142052412" lon="28.860526001080871">
+        <ele>105</ele>
+        <time>2010-01-01T23:32:18Z</time>
+      </trkpt>
+      <trkpt lat="57.128134276717901" lon="28.860611915588379">
+        <ele>109</ele>
+        <time>2010-01-01T23:33:59Z</time>
+      </trkpt>
+      <trkpt lat="57.125455504283309" lon="28.860998069867492">
+        <ele>106</ele>
+        <time>2010-01-01T23:35:47Z</time>
+      </trkpt>
+      <trkpt lat="57.122986195608974" lon="28.86104098521173">
+        <ele>103</ele>
+        <time>2010-01-01T23:37:25Z</time>
+      </trkpt>
+      <trkpt lat="57.121891267597675" lon="28.86129847727716">
+        <ele>106</ele>
+        <time>2010-01-01T23:38:10Z</time>
+      </trkpt>
+      <trkpt lat="57.120889462530613" lon="28.862156784161925">
+        <ele>110</ele>
+        <time>2010-01-01T23:38:54Z</time>
+      </trkpt>
+      <trkpt lat="57.118909070268273" lon="28.863272583112121">
+        <ele>112</ele>
+        <time>2010-01-01T23:40:17Z</time>
+      </trkpt>
+      <trkpt lat="57.116905376315117" lon="28.863916313275695">
+        <ele>109</ele>
+        <time>2010-01-01T23:41:38Z</time>
+      </trkpt>
+      <trkpt lat="57.114365575835109" lon="28.86378756724298">
+        <ele>103</ele>
+        <time>2010-01-01T23:43:20Z</time>
+      </trkpt>
+      <trkpt lat="57.111149858683348" lon="28.866705810651183">
+        <ele>103</ele>
+        <time>2010-01-01T23:45:43Z</time>
+      </trkpt>
+      <trkpt lat="57.105579916387796" lon="28.868336593732238">
+        <ele>97</ele>
+        <time>2010-01-01T23:49:29Z</time>
+      </trkpt>
+      <trkpt lat="57.098727039992809" lon="28.87026778422296">
+        <ele>97</ele>
+        <time>2010-01-01T23:54:07Z</time>
+      </trkpt>
+      <trkpt lat="57.093435041606426" lon="28.873314773663878">
+        <ele>102</ele>
+        <time>2010-01-01T23:57:49Z</time>
+      </trkpt>
+      <trkpt lat="57.091476526111364" lon="28.874258911237121">
+        <ele>99</ele>
+        <time>2010-01-01T23:59:10Z</time>
+      </trkpt>
+      <trkpt lat="57.090264083817601" lon="28.874688064679503">
+        <ele>100</ele>
+        <time>2010-01-01T23:59:59Z</time>
+      </trkpt>
+      <trkpt lat="57.086066761985421" lon="28.87752047739923">
+        <ele>92</ele>
+        <time>2010-01-02T00:02:58Z</time>
+      </trkpt>
+      <trkpt lat="57.085180711001158" lon="28.878078376874328">
+        <ele>92</ele>
+        <time>2010-01-02T00:03:36Z</time>
+      </trkpt>
+      <trkpt lat="57.082592127844691" lon="28.878078376874328">
+        <ele>91</ele>
+        <time>2010-01-02T00:05:19Z</time>
+      </trkpt>
+      <trkpt lat="57.080049980431795" lon="28.8772629853338">
+        <ele>97</ele>
+        <time>2010-01-02T00:07:02Z</time>
+      </trkpt>
+      <trkpt lat="57.079326873645186" lon="28.876619338989258">
+        <ele>99</ele>
+        <time>2010-01-02T00:07:35Z</time>
+      </trkpt>
+      <trkpt lat="57.077927514910698" lon="28.876705085858703">
+        <ele>98</ele>
+        <time>2010-01-02T00:08:31Z</time>
+      </trkpt>
+      <trkpt lat="57.076737871393561" lon="28.875803863629699">
+        <ele>96</ele>
+        <time>2010-01-02T00:09:22Z</time>
+      </trkpt>
+      <trkpt lat="57.073915516957641" lon="28.875975608825684">
+        <ele>98</ele>
+        <time>2010-01-02T00:11:15Z</time>
+      </trkpt>
+      <trkpt lat="57.07211927510798" lon="28.877434730529785">
+        <ele>96</ele>
+        <time>2010-01-02T00:12:34Z</time>
+      </trkpt>
+      <trkpt lat="57.070812871679664" lon="28.877949714660645">
+        <ele>94</ele>
+        <time>2010-01-02T00:13:27Z</time>
+      </trkpt>
+      <trkpt lat="57.069553071632981" lon="28.879194175824523">
+        <ele>102</ele>
+        <time>2010-01-02T00:14:24Z</time>
+      </trkpt>
+      <trkpt lat="57.068433333188295" lon="28.880867874249816">
+        <ele>100</ele>
+        <time>2010-01-02T00:15:22Z</time>
+      </trkpt>
+      <trkpt lat="57.066286811605096" lon="28.885373985394835">
+        <ele>92</ele>
+        <time>2010-01-02T00:17:33Z</time>
+      </trkpt>
+      <trkpt lat="57.06362689845264" lon="28.887905990704894">
+        <ele>63</ele>
+        <time>2010-01-02T00:19:33Z</time>
+      </trkpt>
+      <trkpt lat="57.058026529848576" lon="28.892884170636535">
+        <ele>70</ele>
+        <time>2010-01-02T00:23:42Z</time>
+      </trkpt>
+      <trkpt lat="57.057956540957093" lon="28.892733966931701">
+        <ele>70</ele>
+        <time>2010-01-02T00:23:46Z</time>
+      </trkpt>
+      <trkpt lat="57.057091612368822" lon="28.893126240000129">
+        <ele>72</ele>
+        <time>2010-01-02T00:24:21Z</time>
+      </trkpt>
+      <trkpt lat="57.055347338318825" lon="28.893529577180743">
+        <ele>81</ele>
+        <time>2010-01-02T00:25:32Z</time>
+      </trkpt>
+      <trkpt lat="57.044051634147763" lon="28.901441507041454">
+        <ele>85</ele>
+        <time>2010-01-02T00:33:36Z</time>
+      </trkpt>
+      <trkpt lat="57.035196907818317" lon="28.915435262024403">
+        <ele>140</ele>
+        <time>2010-01-02T00:41:23Z</time>
+      </trkpt>
+      <trkpt lat="57.033273596316576" lon="28.920437581837177">
+        <ele>143</ele>
+        <time>2010-01-02T00:43:37Z</time>
+      </trkpt>
+      <trkpt lat="57.025790736079216" lon="28.926427708938718">
+        <ele>154</ele>
+        <time>2010-01-02T00:49:03Z</time>
+      </trkpt>
+    </trkseg>
+  <desc xmlns=""><![CDATA[<h1>равнинное Пушкинские горы</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Псковская область</li><li><strong>Границы:</strong> Не указано</li><li><strong>Даты прохождения:</strong> Не указано</li><li><strong>Длина:</strong> 38193 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> Не указано</li></ul><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.38</li><li><strong>Кпк (покрытие):</strong> 1.21</li><li><strong>Кнв (набор высоты):</strong> 1.11</li><li><strong>Ккр (крутизна):</strong> 1.00</li><li><strong>КТ (итоговый):</strong> 1.38 * 1.21 * 1.11 * 1.00 * 1.00 * 1.00 * 1.00 =  1.85</li></ul><h2>Фотоматериалы (5)</h2><ul><li><a href="http://velotrex.ru/showfile.php?filename=1481576711_584f110714a12.jpg">Фото</a> (без даты)</li><li><a href="http://velotrex.ru/showfile.php?filename=1481233812_5849d594db868.jpg">1</a> (1)</li><li><a href="http://velotrex.ru/showfile.php?filename=1481233857_5849d5c10aabe.jpg">2</a> (2)</li><li><a href="http://velotrex.ru/showfile.php?filename=1481235911_5849ddc7d64a0.jpg">3</a> (3)</li><li><a href="http://velotrex.ru/showfile.php?filename=1481576005_584f0e452d488.JPG">4</a> (4)</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+
+</gpx>

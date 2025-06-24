@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsies="http://www.gpsies.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="GPSies http://www.gpsies.com - &amp;#1055;&amp;#1055;6 &amp;#1050;&amp;#1086;&amp;#1095;&amp;#1077;&amp;#1074;&amp;#1072; - &amp;#1053;&amp;#1080;&amp;#1078;&amp;#1085;&amp;#1080;&amp;#1081; &amp;#1041;&amp;#1072;&amp;#1089;&amp;#1082;&amp;#1091;&amp;#1085;&amp;#1095;&amp;#1072;&amp;#1082;" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  
+  <trk>
+    <name>равнинное Баксунчак</name>
+    <link href="http://www.gpsies.com/map.do?fileId=iabyxfzyxybnmerh">
+      <type>trackOnWeb</type>
+    </link>
+    <link href="http://www.gpsies.com/charts/ia/map/iabyxfzyxybnmerh_map.png">
+      <type>elevationChartUrlMap</type>
+    </link>
+    <link href="http://www.gpsies.com/charts/ia/mapThumb/iabyxfzyxybnmerh_mapThumb.png">
+      <type>elevationChartUrlMapThumb</type>
+    </link>
+    <link href="http://www.gpsies.com/charts/ia/tab/iabyxfzyxybnmerh_tab.png">
+      <type>elevationChartUrlTab</type>
+    </link>
+    <trkseg>
+      <trkpt lat="48.26188000" lon="46.44196000">
+        <ele>26.000000</ele>
+        <time>2010-01-01T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="48.26047000" lon="46.44173000">
+        <ele>24.000000</ele>
+        <time>2010-01-01T00:00:56Z</time>
+      </trkpt>
+      <trkpt lat="48.24192000" lon="46.69613000">
+        <ele>32.000000</ele>
+        <time>2010-01-01T01:54:38Z</time>
+      </trkpt>
+      <trkpt lat="48.23883000" lon="46.71335000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:02:33Z</time>
+      </trkpt>
+      <trkpt lat="48.23826000" lon="46.71608000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:03:50Z</time>
+      </trkpt>
+      <trkpt lat="48.23662000" lon="46.72267000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:06:57Z</time>
+      </trkpt>
+      
+      <trkpt lat="48.23561000" lon="46.72275000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:07:39Z</time>
+      </trkpt>
+      <trkpt lat="48.23542000" lon="46.72496000">
+        <ele>33.000000</ele>
+        <time>2010-01-01T02:08:38Z</time>
+      </trkpt>
+      <trkpt lat="48.23543000" lon="46.72646000">
+        <ele>31.000000</ele>
+        <time>2010-01-01T02:09:18Z</time>
+      </trkpt>
+      <trkpt lat="48.23530000" lon="46.72720000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:09:39Z</time>
+      </trkpt>
+      <trkpt lat="48.23457000" lon="46.72840000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:10:22Z</time>
+      </trkpt>
+      <trkpt lat="48.23022000" lon="46.73463000">
+        <ele>31.000000</ele>
+        <time>2010-01-01T02:14:23Z</time>
+      </trkpt>
+      <trkpt lat="48.22974000" lon="46.73539000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:14:50Z</time>
+      </trkpt>
+      <trkpt lat="48.22346000" lon="46.75135000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:23:05Z</time>
+      </trkpt>
+      <trkpt lat="48.22325000" lon="46.75194000">
+        <ele>30.000000</ele>
+        <time>2010-01-01T02:23:23Z</time>
+      </trkpt>
+      <trkpt lat="48.22311000" lon="46.75273000">
+        <ele>29.000000</ele>
+        <time>2010-01-01T02:23:44Z</time>
+      </trkpt>
+      <trkpt lat="48.22196000" lon="46.79292000">
+        <ele>10.000000</ele>
+        <time>2010-01-01T02:41:37Z</time>
+      </trkpt>
+      <trkpt lat="48.22198000" lon="46.79599000">
+        <ele>11.000000</ele>
+        <time>2010-01-01T02:42:59Z</time>
+      </trkpt>
+      <trkpt lat="48.22231000" lon="46.80860000">
+        <ele>4.0000000</ele>
+        <time>2010-01-01T02:48:36Z</time>
+      </trkpt>
+      <trkpt lat="48.22259000" lon="46.81486000">
+        <ele>-4.000000</ele>
+        <time>2010-01-01T02:51:23Z</time>
+      </trkpt>
+      <trkpt lat="48.22295000" lon="46.82124000">
+        <ele>-7.000000</ele>
+        <time>2010-01-01T02:54:14Z</time>
+      </trkpt>
+    </trkseg>
+  <desc xmlns=""><![CDATA[<h1>равнинное Баксунчак</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Астраханская область</li><li><strong>Границы:</strong> жд переезд у ст. Кочевая - въезд в пос. Нижний Баскунчак</li><li><strong>Даты прохождения:</strong> сентябрь 2017</li><li><strong>Длина:</strong> 29045 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> Асфальт хороший и разбитый</li></ul><h2>Описание</h2><p>Прохождение препятствия начали в 10-24 закончили  в 16-20 20.09.2017.<br>     Препятствие начинается переездом жд путей на ст.Кочевая, и выездом на дорогу Ахтубинск - Баскунчак, покрытие - асфальт (Фото1). Дорога оживленная, ветер встречный, в Верхнем Баскунчаке асфальт разбитый (Фото 2,3), а дорога в Н.Баскунчак переменного качества асфальт (Фото 4).<br>     Температура 17°C, погода ясная, Ветер встречный.</p><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.29</li><li><strong>Кпк (покрытие):</strong> 0.81</li><li><strong>Кнв (набор высоты):</strong> 1.01</li><li><strong>Ккр (крутизна):</strong> 0.99</li><li><strong>КТ (итоговый):</strong> 1.29 * 0.81 * 1.01 * 0.99 * 1.00 * 1.00 * 1.20 =  1.25</li></ul><h2>Фотоматериалы (5)</h2><ul><li><a href="http://velotrex.ru/showfile.php?filename=1509031880_59f1ffc86ffaf.png">Схема</a> (Схема)</li><li><a href="http://velotrex.ru/showfile.php?filename=1516286499_5a60b223d7eba.jpg">1. Верхний Баксунчак</a> (1. Верхний Баксунчак)</li><li><a href="http://velotrex.ru/showfile.php?filename=1516286455_5a60b1f73d43b.jpg">2. Асфальт хороший</a> (2. Асфальт хороший)</li><li><a href="http://velotrex.ru/showfile.php?filename=1516286578_5a60b272b4659.jpg">3. Асфальт разбитый</a> (3. Асфальт разбитый)</li><li><a href="http://velotrex.ru/showfile.php?filename=1516286647_5a60b2b76aea7.jpg">4. Асфальт хороший, конец ПП</a> (4. Асфальт хороший, конец ПП)</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

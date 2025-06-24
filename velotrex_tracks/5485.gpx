@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>равнинное Рисовые поля Кубани</name>
+<trkseg>
+<trkpt lat="45.254598" lon="37.368345">
+<ele>1.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.253439" lon="37.369439">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.250864" lon="37.372615">
+<ele>3.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.247946" lon="37.374976">
+<ele>5.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.249491" lon="37.391734">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.224579" lon="37.398321">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.222304" lon="37.404566">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.220223" lon="37.410509">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.218442" lon="37.417955">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.215309" lon="37.425873">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.210803" lon="37.436581">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.208614" lon="37.444112">
+<ele>2.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.202306" lon="37.466643">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.197821" lon="37.477329">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.191405" lon="37.491233">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.188144" lon="37.504322">
+<ele>-0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.185204" lon="37.511017">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.179646" lon="37.524879">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.171943" lon="37.544749">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.167415" lon="37.593372">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.163424" lon="37.634613">
+<ele>0.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.162137" lon="37.650835">
+<ele>2.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+<trkpt lat="45.160506" lon="37.657702">
+<ele>3.000</ele>
+<time>1970-01-01T00:00:01.000Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>равнинное Рисовые поля Кубани</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Краснодарский край</li><li><strong>Границы:</strong> а/д А-289 (г. Темрюк) - а/д 03К-010</li><li><strong>Даты прохождения:</strong> июнь 2022</li><li><strong>Длина:</strong> 26934 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> Грунт</li></ul><h2>Описание</h2><p>ПП проходит вдоль канала вдоль р. Кубань, покрытие укатанный грунт. На случай плохой погоды или запрета проезда есть объезд по близлежащей асфальтовой дороге А-289.</p><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.27</li><li><strong>Кпк (покрытие):</strong> 1.40</li><li><strong>Кнв (набор высоты):</strong> 1.00</li><li><strong>Ккр (крутизна):</strong> 1.00</li><li><strong>КТ (итоговый):</strong> 1.27 * 1.40 * 1.00 * 1.00 * 1.00 * 1.00 * 1.00 =  1.78</li></ul><h2>Фотоматериалы (1)</h2><ul><li><a href="http://velotrex.ru/showfile.php?filename=1652456558_627e7c6e7a8d2.jpg">карта</a> (карта)</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>

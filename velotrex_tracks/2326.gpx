@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="velotrex.ru" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:locus="http://www.locusmap.eu" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+
+<trk>
+<name>равнинное Р102</name>
+<trkseg>
+<trkpt lat="52.379508018493652" lon="24.122500419616699">
+<ele>159.000</ele>
+<time>2010-01-01T05:15:49Z</time>
+</trkpt>
+<trkpt lat="52.37392240203917" lon="24.133872902020812">
+<ele>157.000</ele>
+<time>2010-01-01T05:21:46Z</time>
+</trkpt>
+<trkpt lat="52.367843510583043" lon="24.142112731933594">
+<ele>155.000</ele>
+<time>2010-01-01T05:27:02Z</time>
+</trkpt>
+<trkpt lat="52.360925171524286" lon="24.153442298993468">
+<ele>153.000</ele>
+<time>2010-01-01T05:33:34Z</time>
+</trkpt>
+<trkpt lat="52.358199460431933" lon="24.1644287109375">
+<ele>150.000</ele>
+<time>2010-01-01T05:38:24Z</time>
+</trkpt>
+<trkpt lat="52.352537903934717" lon="24.186744606122375">
+<ele>157.000</ele>
+<time>2010-01-01T05:48:14Z</time>
+</trkpt>
+<trkpt lat="52.351069981232285" lon="24.192237770184875">
+<ele>151.000</ele>
+<time>2010-01-01T05:50:41Z</time>
+</trkpt>
+<trkpt lat="52.346875593066216" lon="24.203224098309875">
+<ele>151.000</ele>
+<time>2010-01-01T05:55:58Z</time>
+</trkpt>
+<trkpt lat="52.346875593066216" lon="24.212150489911437">
+<ele>152.000</ele>
+<time>2010-01-01T05:59:36Z</time>
+</trkpt>
+<trkpt lat="52.340373499318957" lon="24.236526405438781">
+<ele>149.000</ele>
+<time>2010-01-01T06:10:26Z</time>
+</trkpt>
+<trkpt lat="52.343519814312458" lon="24.239959716796875">
+<ele>150.000</ele>
+<time>2010-01-01T06:12:58Z</time>
+</trkpt>
+<trkpt lat="52.339953985065222" lon="24.238929664716125">
+<ele>146.000</ele>
+<time>2010-01-01T06:15:23Z</time>
+</trkpt>
+<trkpt lat="52.334919478744268" lon="24.260215675458312">
+<ele>150.000</ele>
+<time>2010-01-01T06:24:41Z</time>
+</trkpt>
+<trkpt lat="52.30386033654213" lon="24.274291908368468">
+<ele>146.000</ele>
+<time>2010-01-01T06:46:11Z</time>
+</trkpt>
+<trkpt lat="52.294832272455096" lon="24.279098510742187">
+<ele>146.000</ele>
+<time>2010-01-01T06:52:31Z</time>
+</trkpt>
+<trkpt lat="52.271939031779766" lon="24.300384521484375">
+<ele>145.000</ele>
+<time>2010-01-01T07:10:06Z</time>
+</trkpt>
+<trkpt lat="52.245670733973384" lon="24.329566871747375">
+<ele>144.000</ele>
+<time>2010-01-01T07:31:17Z</time>
+</trkpt>
+<trkpt lat="52.223803605884314" lon="24.355316078290343">
+<ele>142.000</ele>
+<time>2010-01-01T07:49:16Z</time>
+</trkpt>
+<trkpt lat="52.221279814839363" lon="24.365615760907531">
+<ele>143.000</ele>
+<time>2010-01-01T07:53:48Z</time>
+</trkpt>
+</trkseg>
+<desc xmlns=""><![CDATA[<h1>равнинное Р102</h1><h2>Основные сведения</h2><ul><li><strong>Регион:</strong> Республика Беларусь</li><li><strong>Границы:</strong> от пересечения Р102 с Р85 до пересечения Р102 с Р2 в Кобрине</li><li><strong>Даты прохождения:</strong> 10.06.2019</li><li><strong>Длина:</strong> 26338 м</li><li><strong>Категория трудности:</strong> 1</li><li><strong>Тип покрытия:</strong> асфальт</li></ul><h2>Расчет категории трудности</h2><ul><li><strong>Кпр (протяженность):</strong> 1 + (Lпп - Lлп)/100 =  1.26</li><li><strong>Кпк (покрытие):</strong> 1.00</li><li><strong>Кнв (набор высоты):</strong> 1.01</li><li><strong>Ккр (крутизна):</strong> 0.99</li><li><strong>КТ (итоговый):</strong> 1.26 * 1.00 * 1.01 * 0.99 * 1.00 * 1.00 * 1.00 =  1.26</li></ul>]]></desc><extensions xmlns=""><gpx_style:line xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"><gpx_style:color>4CAF50</gpx_style:color><gpx_style:opacity>0.8</gpx_style:opacity><gpx_style:width>3</gpx_style:width><extensions><locus:lsColorBase xmlns:locus="http://www.locusmap.eu">#FF4CAF50</locus:lsColorBase><locus:lsSymbol xmlns:locus="http://www.locusmap.eu">DOTTED</locus:lsSymbol><locus:lsColorSymbol xmlns:locus="http://www.locusmap.eu">#FFFFFFFF</locus:lsColorSymbol><locus:lsWidth xmlns:locus="http://www.locusmap.eu">3</locus:lsWidth><locus:lsUnits xmlns:locus="http://www.locusmap.eu">PIXELS</locus:lsUnits></extensions></gpx_style:line><locus:activity xmlns:locus="http://www.locusmap.eu">cycling_mountain</locus:activity></extensions></trk>
+</gpx>
