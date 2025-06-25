@@ -47,7 +47,7 @@ let checkInterval;
 
         // Запускаем проверку завершения парсинга
         checkInterval = setInterval(checkParsingComplete, 1000);
-        setTimeout(createAndDownloadArchive, 15*60*1000); // DBG
+        //setTimeout(createAndDownloadArchive, 15*60*1000); // DBG
     }
 
     function checkParsingComplete() {
